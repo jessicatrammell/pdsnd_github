@@ -7,7 +7,7 @@
 Explore US Bikeshare Data
 
 ### Description
-In this project, I used Python and the Pandas DataFrame in order to improve my skills and complete *Udacity's Programming for Data Science with Python Nanodegree Program.* This project allowed me to expore the U.S. Bikeshare Data in Chicago, New York City, and Washington, DC. The project calculates statistics and uses an interactive enviornment to allow the user to choose the data and filter for a dataset to analyze.
+In this project, I applied the skills I acquired in *Udacity's Programming for Data Science with Python Nanodegree Program* in order to code in Python and the Pandas DataFrame. This project allowed me to expore the U.S. Bikeshare Data in Chicago, New York City, and Washington, DC. The project calculates statistics and uses an interactive enviornment to allow the user to choose the data and filter for a dataset to analyze.
 
 ### Files used
 bikeshare_2.py
